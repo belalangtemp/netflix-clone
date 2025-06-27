@@ -2,9 +2,12 @@
 
 Proyek Netflix Clone menggunakan Next.js, Tailwind CSS, dan Shadcn UI.
 
-## Cara Instalasi
+## Cara Pengembangan
 
-1. Clone repository ini:
+### Opsi 1: Development Lokal
+
+
+1. Clone repository:
 ```bash
 git clone https://github.com/belalangtemp/netflix-clone.git
 ```
@@ -28,6 +31,25 @@ npm run dev
 ```
 http://localhost:3000
 ```
+
+### Opsi 2: GitHub Codespace
+
+1. Buka URL Codespace:
+```
+https://jubilant-space-telegram-4gwj5v49jxgf7rj4.github.dev/
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Jalankan aplikasi:
+```bash
+npm run dev
+```
+
+4. Klik tombol "Open in Browser" ketika notifikasi port forwarding muncul, atau buka port 3000 dari tab "Ports" di sidebar.
 
 ## Teknologi yang Digunakan
 
